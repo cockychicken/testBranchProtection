@@ -7,10 +7,11 @@
 # review when someone opens a pull request.
 
 # Tests
-# single person
-* @feeburgleebus
+# 1
+# * @feeburgleebus
 
-# two people
+# 2
+* @feeburgleebus @bluetacktwo
 # two people on two lines
 # one teams
 # two teams
